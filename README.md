@@ -1,3 +1,3 @@
-# brick_breaker
+# Brick Breaker Game
 
-A new Flutter project.
+A simple Flutter-based game developed by Pardhasarathi.
